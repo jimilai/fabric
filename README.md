@@ -1,4 +1,4 @@
-课程地址：[http://xc.hubwiz.com/course/5c95f916a8d86b7067ffebb8?affid=325github](http://xc.hubwiz.com/course/5c95f916a8d86b7067ffebb8?affid=325github)
+课程地址：[http://xc.hubwiz.com/course/5c95f916a8d86b7067ffebb8](http://xc.hubwiz.com/course/5c95f916a8d86b7067ffebb8?affid=325github)
 
 
 Hyperledger是一个旨在推动区块链跨行业应用的开源项目，由Linux基金会在2015年12月主导发起该项目，成员包括金融、银行、物联网、供应链、制造和科技等多个行业的领头羊，托管了众多面向企业的区块链开源框架和工具。
@@ -114,4 +114,4 @@ Fabric并不是唯一的联盟链解决方案，但目前可以说是最复杂�
 - 6.4 钱包组件
 - 6.5 网关入口、私有网络与合约
 
-课程地址：[http://xc.hubwiz.com/course/5c95f916a8d86b7067ffebb8?affid=325github](http://xc.hubwiz.com/course/5c95f916a8d86b7067ffebb8?affid=325github)
+课程地址：[http://xc.hubwiz.com/course/5c95f916a8d86b7067ffebb8](http://xc.hubwiz.com/course/5c95f916a8d86b7067ffebb8?affid=325github)
